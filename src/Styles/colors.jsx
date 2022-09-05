@@ -1,0 +1,6 @@
+export const primary = '#DA1C1C'
+export const white = '#FFFFFF'
+export const white_background = '#d1d1d1'
+export const dark = '#080708'
+export const secundary = '#3772FF'
+export const heavy_primary = '#FFBC0A'
